@@ -1,0 +1,54 @@
+.site-footer{
+
+   width: 1500px;
+   margin-top: 50px;
+   
+       
+}
+.images-7{
+
+   width: 150px;
+   height: 80px;
+   margin-top: 50px;
+
+}
+.page{
+
+   width: 345px;
+   height: 117px;
+   font-family: 'montserrat',sans-serif;
+   font-size: 14px;
+   margin: 0 auto;
+   padding-top: 20px;
+   color: #ffffff53;
+
+}
+.headign-6{
+
+   font-family: 'montserrat', sans-serif;
+   font-size: 19px;
+   margin-top: 85px;
+   color: #ffffff;
+}
+.footer-links{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 15px;
+   margin-top: 30px;
+   color: #ffffff53;
+
+}
+.row-7{
+
+   display: flex;
+   gap: 110px;
+   margin-left: 100px;
+
+}
+.container-7{
+
+   width: 1515px;
+   height: 350px;
+   background-color: #00000053;
+
+}

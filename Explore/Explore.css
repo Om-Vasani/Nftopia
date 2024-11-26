@@ -1,0 +1,58 @@
+*{
+
+   margin: 0;
+   padding: 0;
+
+}
+.container-17{
+
+   background-image: url('/Rectangle\ 41\ \(3\).png');
+   max-width: 1515px;
+   height:  440px;
+   margin: 0 auto;
+
+}
+.ExploreArt{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 50px;
+   color: #ffffff;
+   padding-top: 150px;
+   transform: translateX(285px);
+   margin-left: 0px;
+   
+}
+.container-27{
+
+   width: 1080px;
+   height: 1600px;
+   margin: 0 auto;
+   margin-top: 50px;
+  
+}
+.row{
+
+   display: grid;
+   grid-template-columns: auto auto auto;
+   justify-content: center;
+   gap: 20px;
+
+}
+.images-2{
+
+   width: 345px;
+   height: 515px;
+
+}
+.images-133{
+
+   width: 380px;
+   height: 470px;
+
+}
+.images-135{
+
+   width: 350px;
+   height: 465px;
+   
+}

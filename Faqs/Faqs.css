@@ -1,0 +1,87 @@
+*{
+
+   margin: 0;
+   padding: 0;
+
+}
+.container-13{
+
+   background-image: url('/Rectangle\ 41\ \(6\).png');
+   max-width: 1515px;
+   height: 440px;
+
+}
+h1{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 50px;
+   padding-top: 200px;
+   margin-left: 150px;
+   color: #ffffff;
+
+}
+.container-3{
+
+   width: 1100px;
+   height: 250px;
+   margin: 0 auto;
+   margin-top: 80px;
+   background-color: #131927;
+
+}
+.container-4{
+
+   width: 1100px;
+   height: 250px;
+   margin: 0 auto;
+   margin-top: 30px;
+   background-color: #131927;
+   
+}
+.container-5{
+
+   width: 1100px;
+   height: 250px;
+   margin: 0 auto;
+   margin-top: 30px;
+   background-color: #131927;
+   
+}
+.container-6{
+
+   width: 1100px;
+   height: 250px;
+   margin: 0 auto;
+   margin-top: 30px;
+   background-color: #131927;
+   
+}
+.container-8{
+
+   width: 1100px;
+   height: 250px;
+   margin: 0 auto;
+   margin-top: 30px;
+   background-color: #131927;
+   
+}
+.Marketplace{
+
+   font-family: 'montserrat', sans-serif;
+   font-size: 25px;
+   color: #ffffff;
+   margin-left: 50px;
+   padding-top: 20px;
+     
+}
+.nft{
+
+   max-width: 955px;
+   height: 130px;
+   font-family: 'montserrat', sans-serif;
+   font-size: 21px;
+   color: #ffffff65;
+   margin-left: 50px;
+   margin-top: 10px;
+
+}

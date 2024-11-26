@@ -1,0 +1,40 @@
+*{
+
+   margin: 0;
+   padding: 0;
+
+}
+.container-16{
+
+   background-image: url('/Rectangle\ 41\ \(2\).png');
+   max-width: 1515px;
+   height:  440px;
+   margin: 0 auto;
+
+}
+h1{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 50px;
+   color: #ffffff;
+   padding-top: 150px;
+   margin-left: 0px;
+   transform: translateX(295px);
+
+}
+.container-1{
+
+   width: 1080px;
+   height: 2100px;
+   margin: 0 auto;
+   margin-top: 50px;
+   
+}
+.row{
+
+   display: grid;
+   grid-template-columns: auto auto auto;
+   justify-content: center;
+   gap: 20px;
+
+}

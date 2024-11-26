@@ -1,0 +1,110 @@
+*{
+
+   margin: 0;
+   padding: 0;
+
+}
+h1{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 50px;
+   color: #ffffff;
+   transform: translateX(295px);
+   margin-top: 245px;
+
+}
+.container-18{
+
+   background-image: url('/high-rise-building-nighttime\ 1.png');
+   max-width: 1515px;
+   height: 800px;
+   margin-top: 50px;
+
+}
+.container-1{
+
+   background-image: url('/Rectangle\ 104.png');
+   width: 972px;
+   height: 600px;
+   margin-left: 200px;
+   transform: translateY(150px);
+
+}
+h2{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 35px;
+   color: #ffffff;
+   margin: 0 auto;
+   margin-left: 0px;
+   padding-top: 150px;
+   text-align: center;
+
+}
+label{
+
+   margin-top: 50px;
+   margin-left: 50px;
+   color: #ffffff;
+
+}
+input{
+   
+   width: 790px;
+   height: 55px;
+   background-color: #ffffff31;
+   margin-left: 50px;
+   
+}
+.Username{
+
+   width: 370px;
+   height: 55px;
+   background-color: #ffffff31;
+   color: #ffffff;
+   margin-left: 0px;
+
+}
+.username{
+
+   margin-left: 2px;
+   color: #ffffff;
+
+}
+.container-2{
+
+   width: 800px;
+   height: 90px;
+   margin-left: 50px;
+   margin-top: 50px;
+   
+}
+.row{
+
+   display: flex;
+   gap: 20px;
+
+}
+.Sign{
+
+   width: 500px;
+   height: 55px;
+   color: #ffffff;
+   background: linear-gradient(#1B63FF,#21E7B7);
+   margin-left: 200px;
+   margin-top: 20px;
+
+}
+p{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 18px;
+   margin-left: 350px;
+   color: #ffffff;
+   
+}
+.Signup{
+
+   color: #1B63FF;
+
+}

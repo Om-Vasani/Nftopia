@@ -1,0 +1,171 @@
+*{
+
+   margin: 0;
+   padding: 0;
+
+}
+.container-10{
+
+   background-image: url('/Rectangle\ 41\ \(5\).png');   
+   max-width: 1515px;
+   height: 440px;
+
+}
+.UploadArtwork{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 50px;
+   color: #ffffff;
+   padding-top: 170px;
+   transform: translateX(295px);
+   margin-left: 0px;
+   
+}
+.Name{
+
+   margin-left: 2px;
+   color: #ffffff;
+
+}
+.name{
+
+   width: 310px;
+   height: 55px;
+   font-family: 'montserrat', sans-serif;
+   font-size: 17px;
+   text-align: center;
+   background-color: #ffffff31;
+   color: #ffffff28;
+   margin-left: 0px;
+
+}
+.Category{
+
+   margin-left: -325px;
+   color: #ffffff;
+
+}
+.category{
+
+   width: 323px;
+   height: 55px;
+   font-family: 'montserrat', sans-serif;
+   font-size: 17px;
+   text-align: center;
+   background-color: #ffffff31;
+   color: #ffffff28;
+   margin-left: -325px;
+
+}
+.Price{
+
+   color: #ffffff;
+
+}
+.price{
+
+   width: 310px;
+   height: 55px;
+   font-family: 'montserrat', sans-serif;
+   font-size: 17px;
+   text-align: center;
+   background-color: #ffffff31;
+   color: #ffffff28;
+   margin-left: 0px;
+
+}
+.Time{
+
+   margin-left: -325px;
+   color: #ffffff;
+
+}
+.time{
+
+   width: 323px;
+   height: 55px;
+   font-family: 'montserrat', sans-serif;
+   font-size: 17px;
+   text-align: center;
+   background-color: #ffffff31;
+   color: #ffffff28;
+   margin-left: -325px;
+
+}
+.Currency{
+
+   color: #ffffff;
+
+}
+.currency{
+   
+   width: 310px;
+   height: 55px;
+   font-family: 'montserrat', sans-serif;
+   font-size: 17px;
+   text-align: center;
+   background-color: #ffffff31;
+   color: #ffffff28;
+   margin-left: 0px;
+
+}
+.Royalty{
+
+   
+   margin-left: -325px;
+   color: #ffffff;
+
+}
+.royalty{
+
+   width: 323px;
+   height: 55px;
+   font-family: 'montserrat', sans-serif;
+   font-size: 17px;
+   text-align: center;
+   background-color: #ffffff31;
+   color: #ffffff28;
+   margin-left: -325px;
+
+}
+.container-2{
+
+   width: 655px;
+   height: 500px;
+   margin-left: 350px;
+   margin-top: 50px;
+   
+}
+.row{
+
+   display: grid;
+   grid-template-columns: auto auto;
+   gap: 0px;
+   
+}
+.Upload{
+
+   width: 180px;
+   height: 35px;
+   color: #ffffff;
+   background: linear-gradient(#1B63FF,#21E7B7);
+   margin-top: 30px;
+
+}
+.Description{
+
+   width: 650px;
+   height: 155px;
+   font-family: 'montserrat', sans-serif;
+   font-size: 17px;
+   text-align: center;
+   background-color: #ffffff31;
+   color: #ffffff28;
+   margin-left: 0px;
+
+}
+.description{
+
+   color: #ffffff;
+
+}

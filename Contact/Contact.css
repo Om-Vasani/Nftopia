@@ -1,0 +1,86 @@
+*{
+
+   margin: 0 ;
+   padding: 0 ;
+
+}
+.container-15{
+
+   background-image: url('/Rectangle\ 41.png');
+   width: 1515px;
+   height:  440px;
+   margin: 0 auto;
+
+}
+.Contact{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 50px;
+   color: #ffffff;
+   padding-top: 170px;
+   margin-left: 0px;
+   transform: translateX(295px);
+
+}
+form{
+
+   width: 791px;
+   height: 700px;
+   margin-top: 50px;
+   margin-left: 300px;
+   
+}
+h2{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 35px;
+   color: #ffffff;
+   margin: 0 auto;
+   text-align: center;
+
+}
+p{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 16px;
+   color: #ffffff;
+   margin: 0 auto;
+   text-align: center;
+
+}
+input{
+
+   width: 375px;
+   height: 57px;
+   color: #ffffff;
+   background-color: #3e3e3e;
+   border-radius: 20px;
+   margin: 5px;
+   text-align: center;
+   margin-top: 10px;
+
+}
+.message{
+
+   width: 770px;
+   height: 197px;
+   
+}
+.create{
+
+   width: 275px;
+   height: 50px;
+   border-radius: 0px;
+   background: linear-gradient(#1B63FF,#21E7B7);
+   color: #ffffff;
+   margin-left: 250px;
+   margin-top: 30px;
+
+}
+.Maps{
+
+   width: 1515px;
+   height: 500px;
+   margin-top: 50px;
+
+}

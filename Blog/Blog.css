@@ -1,0 +1,115 @@
+*{
+
+   margin: 0;
+   padding: 0;
+
+}
+.container-14{
+
+   background-image: url('/Rectangle\ 41\ \(1\).png');
+   max-width: 1515px;
+   height:  437px;
+   margin: 0 auto;
+
+}
+h1{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 50px;
+   color: #ffffff;
+   padding-top: 230px;
+   transform: translateX(295px);
+   margin-left: 0px;
+   
+}
+.Today{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 25pt;
+   margin: 0 auto;
+   text-align: center;
+   margin-top: 80px;
+   color: #ffffff;
+   
+}
+.row{
+
+   display: grid;
+   grid-template-columns: auto auto;
+   justify-content: center;
+   gap: 30px;
+   margin-top: 50px;
+
+}
+.card{
+
+   width: 500px;
+   height: 135px;
+   margin-top: -20px;
+   margin-left: 30px;
+   
+}
+.row-1{
+
+   display: flex;
+
+}
+h3{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 18px;
+   color: #ffffff;
+
+}
+.december{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 14px;
+   color: #ffffff73;
+
+}
+.whether{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 10pt;
+   color: #ffffff41;
+
+}
+.container-1{
+
+   width: 1015px;
+   height: 250px;
+   margin: 0 auto;
+   margin-top: 80px;
+   
+}
+.card-1{
+
+   width: 500px;
+   height: 250px;
+
+}
+.Best{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 18px;
+   color: #ffffff;
+   margin-left: 70px;
+   margin-top: 50px;
+
+}
+.wherther{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 10px;
+   margin-left: 70px;
+   color: #ffffff41;
+
+}
+.images-2{
+
+   width: 500px;
+   height: 245px;
+   margin-left: 10px;
+
+}

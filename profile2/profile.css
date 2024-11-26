@@ -1,0 +1,106 @@
+*{
+
+   margin: 0;
+   padding: 0;
+
+}
+.container-21{
+
+   background-image: url('/Rectangle\ 41\ \(4\).png');   
+   max-width: 1515px;
+   height: 445px;
+
+}
+h1{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 50px;
+   color: #ffffff;
+   padding-top: 100px;
+   transform: translateX(295px);
+
+}
+.card{
+
+   width: 800px;
+   height:340px;
+   margin-left: 210px;
+   transform: translateY(-200px);
+   background-color: #131927;
+   
+}
+.row{
+
+   display: flex;
+
+}
+.images-1{
+
+   width: 275px;
+   height: 275px;
+   margin: 30px;
+
+}
+h2{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 28pt;
+   margin-top: 50px;
+   color: #ffffff;
+
+}
+h5{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 18pt;
+   margin-top: -20px;
+   color: #2A79D7;
+
+}
+.Lorem{
+
+   font-family: 'Crimson Text',sans-serif;
+   font-size: 14px;
+   color: #FFFFFF61;
+
+}
+.Message{
+
+   width: 155px;
+   height: 50px;
+   background: linear-gradient(#1B63FF,#21E7B7);
+   color: #ffffff;
+   margin-top: 30px;
+
+}
+.container-1{
+
+   width: 1100px;
+   height: 500px;
+   margin: 0 auto;
+   margin-top: -120px;
+
+}
+.row-1{
+
+   display: grid;
+   grid-template-columns: auto auto auto;
+   justify-content: center;
+   gap: 20px;
+
+}
+.Group-212{
+
+   max-width: 325px;
+   height: 465px;
+
+}
+.row-3{
+
+   display: flex;
+   margin-top: 30px;
+   margin-left: 600px;
+   gap: 10px;
+   color: #ffffff;
+
+}

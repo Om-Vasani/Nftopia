@@ -1,0 +1,55 @@
+*{
+
+   margin: 0;
+   padding: 0;
+
+}
+.container-fluid{
+
+   width: 1512px;
+   height: 120px;
+   background-color: #131927;
+
+}
+.collapse{
+
+   visibility: unset;
+
+}
+.navbar-nav{
+
+   display: flex;
+   gap: 50px;
+   margin-left: 400px;
+   margin-top: -30px;
+
+}
+.navbar-nav li a{
+
+   color: #fff;
+   text-transform: uppercase;
+   font-family: "work sans", sans-serif;
+   font-size: 20px;
+
+}
+.navbar-nav li a:active{
+   color: #fff;
+
+}
+.images{
+
+   width: 80px;
+   height: 50px;
+   margin-left: 150px;
+   transform: translateY(25px);
+   
+}
+.Login{
+
+   width: 130px;
+   height: 50px;
+   margin-left: 80px;
+   margin-top: -20px;
+   background-color: #ffff00;
+   
+}

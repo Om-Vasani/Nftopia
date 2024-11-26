@@ -1,0 +1,96 @@
+*{
+
+   margin: 0;
+   padding: 0;
+
+}
+h1{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 50px;
+   color: #ffffff;
+   transform: translateX(295px);
+   margin-top: 245px;
+
+}
+.container-24{
+
+   background-image: url('/high-rise-building-nighttime\ 1.png');
+   max-width: 1515px;
+   height: 795px;
+   margin-top: 50px;
+
+}
+.container-41{
+
+   background-image: url('/Rectangle\ 104.png');
+   width: 972px;
+   height: 630px;
+   margin-left: 200px;
+   transform: translateY(80px);
+
+}
+h2{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 35px;
+   color: #ffffff;
+   margin: 0 auto;
+   text-align: center;
+   padding-top: 50px;
+
+}
+.Username{
+
+   width: 370px;
+   height: 55px;
+   background-color: #ffffff31;
+   color: #ffffff;
+   margin-left: 0px;
+  
+}
+.username{
+
+   margin-left: 2px;
+   color: #ffffff;
+   
+}
+.container-2{
+
+   width: 800px;
+   height: 90px;
+   margin-left: 110px;
+   margin-top: 30px;
+   
+}
+.row{
+
+   display: grid;
+   grid-template-columns: auto auto;
+   gap: 10px;
+
+}
+.Sign{
+
+   width: 500px;
+   height: 55px;
+   color: #ffffff;
+   background: linear-gradient(#1B63FF,#21E7B7);
+   margin-left: 200px;
+   margin-top: 200px;
+
+}
+p{
+
+   font-family: 'montserrat',sans-serif;
+   font-size: 18px;
+   color: #ffffff;
+   margin: 0 auto;
+   text-align: center;
+
+}
+.Signup{
+
+   color: #1B63FF;
+
+}
